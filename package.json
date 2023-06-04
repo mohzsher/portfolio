@@ -9,8 +9,7 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",    
-    "@fluentui/react": "^8.43.0"
-
+    "@fluentui/react": "^8.109.10"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
