@@ -13,7 +13,7 @@ export default function Home() {
         <Text variant='mega'>Sher Mohammad</Text>
     </Stack>
     <Stack>
-      <Image src={home} height={500}/>
+      <Image src={home} height={500} alt='hello'/>
     </Stack>
     </Stack>
   )
