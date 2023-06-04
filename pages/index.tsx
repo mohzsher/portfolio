@@ -1,4 +1,3 @@
-import { Text } from '@fluentui/react/lib/Text';
 import Image from 'next/image';
 import home from "../app/images/home.jpg";
 
